@@ -1230,7 +1230,7 @@ body {
 
 /* 7 md mobile*/
 
-@media only screen and (min-width:376px )and (max-width:767px) { 
+@media only screen and (min-width:375px )and (max-width:833px) { 
 	.logo{
 		padding-top: 10px;
 		padding-left: 10px;
@@ -1271,13 +1271,15 @@ body {
     	padding-left: 5px;
     	padding-top: 10px;
     }
-    .container {
+   .container {
 	     padding: 5px;
-	     height: 590px;
+	     height: 530px;
 	 }
 	 .container img {
-	    max-width:260px;
-	    max-height:90px;
+	    max-width:240px;
+	    max-height:80px;
+	    width: auto;
+	    height: auto;
 	}
  	.menurodape{
 	    margin: 0px;
@@ -1421,7 +1423,7 @@ body {
 }
 
 /* 8 sm mobile*/
-@media only screen and (min-width: 321) and (max-width:375px) { 
+@media only screen and (min-width: 321) and (max-width:374px) { 
 	.logo{
 		padding-top: 10px;
 		padding-left: 10px;
