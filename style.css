@@ -1487,7 +1487,7 @@ body {
 	     height: 530px;
 	}
 	.container img {
-	    max-width:240px;
+	    max-width:80px;
 	    max-height:80px;
 	    width: auto;
 	    height: auto;
@@ -1639,7 +1639,7 @@ body {
 	     height: 520px;
 	 }
 	 .container img {
-	    max-width:180px;
+	    max-width:80px;
 	    max-height:80px;
 	    width: auto;
 	    height: auto;
