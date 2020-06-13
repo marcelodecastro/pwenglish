@@ -1584,7 +1584,7 @@ body {
     .logowhatsapp{
     	position: absolute;
     	left: 50%;
-    	transform: translate(-50%);
+    	transform: translate(0, -50%);
     	justify-content: center;
     }
     .logowhatsapp img{
@@ -1776,7 +1776,7 @@ body {
     .logowhatsapp{
     	position: absolute;
     	left: 50%;
-    	transform: translate(-50%);
+    	transform: translate(0, -50%);
     	justify-content: center;
     }
     .logowhatsapp img{
