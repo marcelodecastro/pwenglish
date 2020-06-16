@@ -1655,24 +1655,24 @@ body {
 /* 8 sm mobile*/
 @media only screen  and (max-width:320px) { 
 	.logo{
-		padding-top: 10px;
+		padding-top: 5px;
 		padding-left: 5px;
 
 	}
-		.logo img {
+	.logo img {
 	    max-width:80px;
 	    max-height:80px;
 	    width: auto;
 	    height: auto;
 		}
 	.menu{
-		height: 220px;
+		height: 200px;
 		padding: 20px;
 		padding-top: 0px;
 		font-size: 12px;
 		font-weight: bold;
 		text-align: right;
- 		line-height: 3;
+ 		line-height: 2.8;
 
 	}
 	.menu li {
