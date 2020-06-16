@@ -368,27 +368,27 @@ body {
 	
     .metodologia{
 		padding: 0px;
-   		padding-left: 320px;
+   		padding-left: 350px;
 	}
 	.coaching{
 		padding: 0px;
-		padding-right: 320px;
+		padding-right: 350px;
 	}
 	.aulas{
 		padding: 0px;
-	    padding-left: 320px;
+	    padding-left: 350px;
 	}
 	.aulasOnline{
 		padding: 0px;
-		padding-right: 320px;
+		padding-right: 350px;
 	}
 	.preparatorio{
 		padding:0px;
-	    padding-left: 320px;
+	    padding-left: 350px;
 	}
 	.traducao{
 		padding: 0px;
-		padding-right: 320px;
+		padding-right: 350px;
 	}
 	    
     .metodologiatitle{
@@ -474,7 +474,9 @@ body {
 
 /* 2 Laptop 1440 x 900 */
 
-@media only screen and (min-width: 1058px) and (max-width:1440px) { 
+@media only screen and (min-width: 1280px) and (max-width:1440px)
+
+    { 
 
 	.logo{
 		padding-left: 40px;
@@ -505,35 +507,35 @@ body {
 	    height: 335px;
 	 }
 	 .container img {
-	    max-width:350px;
+	    max-width:400px;
 	    max-height:100px;
 	    width: auto;
 	    height: auto;
 	}
     .metodologia{
 		padding: 13px;
-	    padding-left: 250px;
+	    padding-left: 350px;
 	}
 	.coaching{
 		padding: 13px;
-		padding-right: 250px;
+		padding-right: 350px;
 	}
 	.aulas{
 		padding: 0px;
-	    padding-left: 250px;
+	    padding-left: 350px;
 	}
 	.aulasOnline{
 		padding: 0px;
-		padding-right: 250px;
+		padding-right: 350px;
 	}
 	.preparatorio{
 		padding:0px;
-	    padding-left: 250px;
+	    padding-left: 350px;
 
 	}
 	.traducao{
 		padding: 0px;
-		padding-right:250px;
+		padding-right:350px;
 	}
 	    
     .metodologiatitle{
@@ -618,7 +620,19 @@ body {
     }
     .rodape{
     	padding-left:350px;
-    	font-size: 10px;
+    	font-size: 12px;
+    }
+	.logowhatsapp{
+        padding: 10px;
+		float: right;
+		margin-right: 240px;
+
+	}
+    .logowhatsapp img{
+    	max-width: 360px;
+    	max-height: 360px;
+    	width: auto;
+    	height: auto;
     }  
 } 
 
@@ -642,8 +656,9 @@ body {
   
  	}
 	.banner{
-		font-size: 22px;
-		height: 70px;		
+		font-size: 20px;
+		padding-top: 0px;
+		height: 65px;		
 		
 	}
 
@@ -653,8 +668,14 @@ body {
     }
     .container {
 	    padding: 10px;
-	    height: 355px;
+	    height: 340px;
 	 }
+	.container img {
+	    max-width:350px;
+	    max-height:110px;
+	    width: auto;
+	    height: auto;
+	}
     .metodologia{
 		padding: 2px;
 	    padding-left: 220px;
@@ -765,6 +786,7 @@ body {
     }
     .rodape{
     	padding-left:220px;
+    	font-size: 10px;
 
     }  
 } 
@@ -1082,7 +1104,8 @@ body {
 }
 
 /* 6 lg mobile*/
-@media only screen and (min-width: 768px)and (max-width:834px)        (-webkit-min-device-pixel-ratio: 2), /* Navegadores baseados no Webkit */
+@media only screen and (min-width: 768px)and (max-width:834px)        
+       (-webkit-min-device-pixel-ratio: 2), /* Navegadores baseados no Webkit */
        (min--moz-device-pixel-ratio: 2),    /* Navegadores mais antigos do Firefox (antes do Firefox 16) */
        (min-resolution: 2dppx),             /* Forma padrão */
        (min-resolution: 192dpi)             /* dppx fallback */ { 
@@ -1350,15 +1373,15 @@ body {
 	}
 	.aulasOnlinetitle{
 		margin-top: 10px;
-		width: 200px;
+		width: 170px;
 	}
 	.preparatoriotitle{
 		margin-top: 3px;
-		width: 300px;
+		width: 250px;
 	}
 	.traducaotitle{
 		margin-top: 10px;
-		width: 300px;
+		width: 250px;
 
 	}
 	    
@@ -1551,15 +1574,15 @@ body {
 	}
 	.aulasOnlinetitle{
 		margin-top: 0px;
-		width: 200px;
+		width: 150px;
 	}
 	.preparatoriotitle{
 		margin-top: 10px;
-		width: 300px;
+		width: 200px;
 	}
 	.traducaotitle{
 		margin-top: 10px;
-		width: 300px;
+		width: 200px;
 	}
 
  	    
@@ -1643,7 +1666,7 @@ body {
 	    height: auto;
 		}
 	.menu{
-		height: 200px;
+		height: 220px;
 		padding: 20px;
 		padding-top: 0px;
 		font-size: 12px;
