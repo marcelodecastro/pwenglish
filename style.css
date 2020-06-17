@@ -1277,9 +1277,10 @@ body {
 	}
 	.menu{
 		margin-top: 0;
-		height: 200px;
+		height: 250px;
 		padding: 20px;
 		padding-top: 0px;
+		font-size: 15px;
 		font-weight: bold;
 		text-align: right;
  		line-height: 2.8;
