@@ -1104,7 +1104,11 @@ body {
 }
 
 /* 6 lg mobile*/
-@media only screen and (min-width: 768px)and (max-width:834px)        
+@media only screen and (min-width: 768px)and (max-width:834px)
+       (-webkit-min-device-pixel-ratio: 2), /* Navegadores baseados no Webkit */
+       (min--moz-device-pixel-ratio: 2),    /* Navegadores mais antigos do Firefox (antes do Firefox 16) */
+       (min-resolution: 2dppx),             /* Forma padrão */
+       (min-resolution: 192dpi)             /* dppx fallback */ 
         { 
 
 	.logo{
