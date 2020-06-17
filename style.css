@@ -479,7 +479,7 @@ body {
     { 
 
 	.logo{
-		padding-left: 40px;
+		padding-left: 80px;
 	}
 	.logo img {
 	    max-width:150px;
@@ -504,37 +504,38 @@ body {
     }
     .container {
 	    margin-top: 0px;
-	    height: 335px;
+	    padding: 10px;
+	    height: 340px;
 	 }
 	 .container img {
 	    max-width:400px;
-	    max-height:100px;
+	    max-height:110px;
 	    width: auto;
 	    height: auto;
 	}
     .metodologia{
-		padding: 13px;
+		padding: 10px;
 	    padding-left: 350px;
 	}
 	.coaching{
-		padding: 13px;
+		padding: 10px;
 		padding-right: 350px;
 	}
 	.aulas{
-		padding: 0px;
+		padding: 10px;
 	    padding-left: 350px;
 	}
 	.aulasOnline{
-		padding: 0px;
+		padding: 10px;
 		padding-right: 350px;
 	}
 	.preparatorio{
-		padding:0px;
+		padding: 10px;
 	    padding-left: 350px;
 
 	}
 	.traducao{
-		padding: 0px;
+		padding: 10px;
 		padding-right:350px;
 	}
 	    
