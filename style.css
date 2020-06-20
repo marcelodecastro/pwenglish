@@ -1812,7 +1812,7 @@ body {
     } 
     .nivelimg{
 	    width: 100px;
-	    margin-top: -90px;
+	    margin-top: -70px;
    
     }
     .conhecimentoimg{
@@ -1820,8 +1820,8 @@ body {
 		margin-top: -107px;
     }
     .pagamentoimg{
-		width: 100px;
-		margin-top: -80px;
+		width: 90px;
+		margin-top: -70px;
     }
     .relatorioimg{
 		width: 110px;
@@ -1835,8 +1835,7 @@ body {
     } 
     .logowhatsapp{
 	position: absolute;
-      	left: 50%;
-    	transform: translate(-50%);
+      
     	justify-content: center;
     }
 	
