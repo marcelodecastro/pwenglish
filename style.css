@@ -1811,8 +1811,8 @@ body {
 		margin-top: -112px;
     } 
     .nivelimg{
-	    width: 140px;
-	    margin-top: -115px;
+	    width: 110px;
+	    margin-top: -100px;
    
     }
     .conhecimentoimg{
@@ -1834,8 +1834,8 @@ body {
         padding-left: 70px;
     } 
     .logowhatsapp{
-	display: contents;
-      	left: 60%;
+	display: absolute;
+      	left: 50%;
     	transform: translate(-50%);
     	justify-content: center;
     }
