@@ -1747,7 +1747,7 @@ body {
 
  	.menurodape{
 	    margin: 0px;
-	    padding: 10px;
+	    padding: 5px;
     } 
     .menurodape img {
 	    max-width:45px;
@@ -1788,11 +1788,11 @@ body {
     }
     .aulasOnlineimg{
 		width: 110px;
-		margin-top: -90px;
+		margin-top: -80px;
     }
     .servicosimg{
 		width: 100px;
-		margin-top: -90px;
+		margin-top: -80px;
     }
     .clientesimg{
 		width: 100px;
@@ -1834,6 +1834,7 @@ body {
         padding-left: 70px;
     } 
     .logowhatsapp{
+	display: contents;
       	left: 50%;
     	transform: translate(-50%);
     	justify-content: center;
