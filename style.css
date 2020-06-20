@@ -1792,7 +1792,7 @@ body {
     }
     .servicosimg{
 		width: 100px;
-		margin-top: -80px;
+		margin-top: -70px;
     }
     .clientesimg{
 		width: 100px;
@@ -1835,7 +1835,7 @@ body {
     } 
     .logowhatsapp{
 	display: contents;
-      	left: 50%;
+      	left: 60%;
     	transform: translate(-50%);
     	justify-content: center;
     }
