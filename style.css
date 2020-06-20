@@ -1696,7 +1696,7 @@ body {
     	font-size: 9px;
     }
     .container {
-
+         display: none;
 	 }
 
     .container-mobile {
