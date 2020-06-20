@@ -1811,8 +1811,8 @@ body {
 		margin-top: -112px;
     } 
     .nivelimg{
-	    width: 110px;
-	    margin-top: -100px;
+	    width: 100px;
+	    margin-top: -90px;
    
     }
     .conhecimentoimg{
@@ -1820,12 +1820,12 @@ body {
 		margin-top: -107px;
     }
     .pagamentoimg{
-		width: 120px;
-		margin-top: -90px;
+		width: 100px;
+		margin-top: -80px;
     }
     .relatorioimg{
-		width: 120px;
-		margin-top: -100px;
+		width: 110px;
+		margin-top: -90px;
     }
     .rodape{
     	margin: 0px;
@@ -1834,11 +1834,12 @@ body {
         padding-left: 70px;
     } 
     .logowhatsapp{
-	display: absolute;
+	position: absolute;
       	left: 50%;
     	transform: translate(-50%);
     	justify-content: center;
     }
+	
     .logowhatsapp img{
     	max-width: 300px;
     	max-height: 300px;
