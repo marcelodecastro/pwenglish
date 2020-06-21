@@ -475,10 +475,7 @@ body {
 /* 2 Laptop 1440 x 900 */
 
 @media only screen and (min-width: 1280px) and (max-width:1440px)
-       (-webkit-min-device-pixel-ratio: 2), /* Navegadores baseados no Webkit */
-       (min--moz-device-pixel-ratio: 2),    /* Navegadores mais antigos do Firefox (antes do Firefox 16) */
-       (min-resolution: 2dppx),             /* Forma padrão */
-       (min-resolution: 192dpi)             /* dppx fallback */ 
+
     { 
 
      .logo{
