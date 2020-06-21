@@ -489,12 +489,11 @@ body {
 		}
 	.menu {
 	    font-size: 18px;
-	    height: 60px;
+	    height: 50px;
  	}
 	.banner{
 		font-size: 24px;
 		height: 100px;
-	
 	}
 
     h2 {
@@ -505,36 +504,35 @@ body {
 	    margin-top: 0px;
 	    height: 340px;
 	 }
-	 .container img {
+    .container img {
 	    max-width:400px;
 	    max-height:110px;
 	    width: auto;
 	    height: auto;
 	}
     .metodologia{
-		padding: 13px;
-	    padding-left: 350px;
+	padding: 13px;
+	padding-left: 350px;
 	}
-	.coaching{
-		padding: 13px;
-		padding-right: 350px;
+    .coaching{
+	padding: 13px;
+	padding-right: 350px;
 	}
-	.aulas{
-		padding: 0px;
-	    padding-left: 350px;
+    .aulas{
+	padding: 13px;
+	padding-left: 350px;
 	}
-	.aulasOnline{
-		padding: 0px;
-		padding-right: 350px;
+    .aulasOnline{
+	padding: 13px;
+	padding-right: 350px;
 	}
-	.preparatorio{
-		padding: 0px;
-	    padding-left: 350px;
-
+    .preparatorio{
+	padding: 13px;
+	padding-left: 350px;
 	}
-	.traducao{
-		padding: 0px;
-		padding-right:350px;
+    .traducao{
+	padding: 13px;
+	padding-right:350px;
 	}
 	    
     .metodologiatitle{
