@@ -478,16 +478,16 @@ body {
 
     { 
 
-	.logo{
-		padding-left: 40px;
+     .logo{
+	padding-left: 40px;
 	}
-	.logo img {
+     .logo img {
 	    max-width:150px;
 	    max-height:150px;
 	    width: auto;
 	    height: auto;
 		}
-	.menu {
+      .menu {
 	    font-size: 18px;
 	    height: 50px;
  	}
@@ -502,7 +502,7 @@ body {
     }
     .container {
 	    margin-top: 0px;
-	    height: 330px;
+	    height: 350px;
 	 }
     .container img {
 	    max-width:390px;
