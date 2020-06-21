@@ -12,12 +12,12 @@ body {
 		}
 
 	.menu {
-		margin:auto;
+	    margin:auto;
 	    font-family:MS Reference Sans Serif;
 	    font-size: 17px;
 	    text-align: center;
 	    height:60px;
-		background-color: #0b466c;
+	    background-color: #0b466c;
 	}
 	.menu a {
 		color: #ffffff;
@@ -1686,7 +1686,7 @@ body {
 	    border-radius: 15px;
 	}
 	.banner{
-		padding: 10px;
+		padding: 11px;
 		height: 50px;
 		font-size: 10px;
 		color:#FF0;
@@ -1700,22 +1700,21 @@ body {
 	 }
 
     .container-mobile {
-
-	    margin-top: 5px;
-	    padding: 5px;
-	    height: 590px;
-		background-color: #f2f5f9;
+	margin-top: 5px;
+	padding: 5px;
+	height: 590px;
+	background-color: #f2f5f9;
     }
     .container-mobile a{
-	    text-decoration: none;
+	text-decoration: none;
     }
     .container-mobile a:hover{
-	    border-radius: 10px;
-		opacity: 0.7;
-		transition: all 1s linear;
+	border-radius: 10px;
+	opacity: 0.7;
+	transition: all 1s linear;
     }
     .container-mobile li{
-         display: contents;
+         position: absolute;
 	 cursor: pointer;
 	 list-style: none;
     }
@@ -1822,7 +1821,7 @@ body {
     }
     .pagamentoimg{
 		width: 80px;
-		margin-top: -70px;
+		margin-top: -60px;
     }
     .relatorioimg{
 		width: 110px;
