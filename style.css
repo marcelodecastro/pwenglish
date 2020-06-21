@@ -487,10 +487,9 @@ body {
 	    width: auto;
 	    height: auto;
 		}
-	.texto1{
-	}
 	.menu {
-	    font-size: 18px;	
+	    font-size: 18px;
+	    height: 60px;
  	}
 	.banner{
 		font-size: 24px;
