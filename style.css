@@ -508,7 +508,7 @@ body {
 	 }
 	 .container img {
 	    max-width:400px;
-	    max-height:100px;
+	    max-height:110px;
 	    width: auto;
 	    height: auto;
 	}
@@ -1684,7 +1684,7 @@ body {
 	    border-radius: 15px;
 	}
 	.banner{
-		padding: 11px;
+		padding: 12px;
 		height: 50px;
 		font-size: 10px;
 		color:#FF0;
