@@ -1258,7 +1258,12 @@ body {
 
 /* 7 md mobile*/
 
-@media only screen and (min-width:425px) and (max-width:767px) { 
+@media only screen and (min-width:425px) and (max-width:767px) 
+       (-webkit-min-device-pixel-ratio: 2), /* Navegadores baseados no Webkit */
+       (min--moz-device-pixel-ratio: 2),    /* Navegadores mais antigos do Firefox (antes do Firefox 16) */
+       (min-resolution: 2dppx),             /* Forma padrão */
+       (min-resolution: 192dpi)             /* dppx fallback */ 
+       { 
 	.logo{
 		padding-top: 10px;
 		padding-left: 10px;
