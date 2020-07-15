@@ -972,44 +972,44 @@ body {
     }
     .container {
 	     padding: 10px;
-	     height: 355px;
+	     height: 335px;
 	 }
 	 .container img {
-	    max-width:310px;
+	    max-width:300px;
 	    max-height:90px;
 	    width: auto;
 	    height: auto;
 	}
     .metodologia{
 		float: left;
-		padding: 15px;
-	    padding-left: 120px;
+		padding: 5px;
+	    padding-left: 100px;
 	}
 	.coaching{
 		float: right;
-		padding: 15px;
-		padding-right: 120px;
+		padding: 5px;
+		padding-right: 100px;
 	}
 	.aulas{
 		float: left;
-		padding: 15px;
-	    padding-left: 120px;
+		padding: 5px;
+	    padding-left: 100px;
 	}
 	.aulasOnline{
 		float: right;
-		padding: 15px;
-		padding-right: 120px;
+		padding: 5px;
+		padding-right: 100px;
 	}
 	.preparatorio{
 		float: left;
-		padding: 15px;
-	    padding-left: 120px;
+		padding: 5px;
+	    padding-left: 100px;
 
 	}
 	.traducao{
 		float: right;
-		padding: 15px;
-		padding-right: 120px;
+		padding: 5px;
+		padding-right: 100px;
 	}
 
 
